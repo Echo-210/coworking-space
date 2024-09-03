@@ -1,0 +1,24 @@
+{
+  "name": "coworking-space",
+  "version": "1.0.1",
+  "description": "Joke package that just prints coworking spaces in San Antonio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Echo-210/coworking-space.git"
+  },
+  "keywords": [
+    "joke",
+    "echo210",
+    "coworking"
+  ],
+  "author": "RetroRoot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Echo-210/coworking-space/issues"
+  },
+  "homepage": "https://github.com/Echo-210/coworking-space#readme"
+}
